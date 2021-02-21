@@ -16,7 +16,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/divinit7/Stock_market_Price/">
-    <img src="newplot.png" alt="Logo" width="80" height="80">
+    <img src="newplot.png" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
@@ -86,7 +86,7 @@ Create a hybrid model for stock price/performance  prediction using numerical an
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* Clone and open the jupyter notebook
   ```sh
   git clone https://github.com/divinit7/Stock_market_Price.git
    ```
