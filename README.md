@@ -5,6 +5,7 @@
 
 
 
+<!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][https://github.com/divinit7/Stock_market_Price/issues]
 [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/divyanshu-chauhan-6858b9194]
@@ -15,7 +16,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/divinit7/Stock_market_Price/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="newplot.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
