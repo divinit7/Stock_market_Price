@@ -3,15 +3,6 @@
 ### Create a hybrid model for stock price/performance  prediction using numerical analysis of historical stock prices, and  sentimental analysis of news headlines  
 
 
-
-
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][https://github.com/divinit7/Stock_market_Price/issues]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/divyanshu-chauhan-6858b9194]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
