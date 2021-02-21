@@ -16,7 +16,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/divinit7/Stock_market_Price/">
-    <img src="newplot.png" alt="Logo" width="400" height="500">
+    <img src="newplot.png" alt="Logo" width="600" height="400">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
