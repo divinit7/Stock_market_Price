@@ -19,12 +19,9 @@
     <img src="newplot.png" alt="Logo" width="600" height="400">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Sensex Price through the years.</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/divinit7/Stock_market_Price/blob/main/News%20based%20stock%20price%20prediction.ipynb">View Notebook</a>
@@ -85,7 +82,7 @@ Create a hybrid model for stock price/performance  prediction using numerical an
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+This is how to install it.
 * Clone and open the jupyter notebook
   ```sh
   git clone https://github.com/divinit7/Stock_market_Price.git
