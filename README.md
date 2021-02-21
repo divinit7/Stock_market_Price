@@ -65,7 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Create a hybrid model for stock price/performance  prediction using numerical analysis of historical stock prices, and  sentimental analysis of news headlines
-[![][Sensex-through-the-years]](https://github.com/divinit7/Stock_market_Price/blob/main/newplot.png)
+[![][Sensex-through-the-years]](https://github.com/divinit7/Stock_market_Price/newplot.png)
 
 
 
